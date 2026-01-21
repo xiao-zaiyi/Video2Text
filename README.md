@@ -199,7 +199,6 @@ Video2Text/
 ├── video2text.py           # 完整版主程序（命令行）
 ├── audio_extractor.py      # 音频提取模块
 ├── transcriber.py          # 语音转文字模块
-├── downloader.py           # 视频下载模块（可选）
 ├── requirements.txt        # 依赖列表
 ├── .gitignore             # Git 忽略文件
 └── output/                # 输出目录
@@ -274,6 +273,6 @@ Video2Text/
 
 **[⬆ 回到顶部](#-video2text)**
 
-Made with ❤️ by [你的名字]
+Made with ❤️ by [xiao-zaiyi]
 
 </div>
