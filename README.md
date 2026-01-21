@@ -67,7 +67,7 @@ sudo yum install ffmpeg  # CentOS/RHEL
 
 ```bash
 # 克隆项目
-git clone https://github.com/你的用户名/Video2Text.git
+git clone https://github.com/xiao-zaiyi/Video2Text.git
 cd Video2Text
 
 # 安装 Python 依赖
@@ -266,7 +266,7 @@ Video2Text/
 
 ## 📮 联系方式
 
-如有问题或建议，请提交 [Issue](https://github.com/你的用户名/Video2Text/issues)
+如有问题或建议，请提交 [Issue](https://github.com/xiao-zaiyi/Video2Text/issues)
 
 ---
 
