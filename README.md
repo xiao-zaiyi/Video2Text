@@ -5,7 +5,7 @@
 **简单高效的视频转文本工具**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-ApacheLicense-green.svg)](LICENSE)
 [![OpenAI Whisper](https://img.shields.io/badge/Whisper-OpenAI-orange.svg)](https://github.com/openai/whisper)
 
 [功能特点](#功能特点) • [快速开始](#快速开始) • [使用方法](#使用方法) • [常见问题](#常见问题)
@@ -254,7 +254,7 @@ Video2Text/
 
 ## 📄 许可证
 
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
+本项目采用 Apache-2.0 license 许可证 - 详见 [LICENSE](LICENSE) 文件
 
 ## 🤝 贡献
 
